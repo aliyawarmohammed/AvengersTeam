@@ -122,12 +122,12 @@ namespace AvengersTeam
 //any class which cannot be futher inherited it is called as Sealed class
 
 
-//sealed class Amit
+//sealed class Amitabh
 //{
 //-------------
 //}
 
-//class manasa : Amit
+//class manish : Amitabh
 //{
 //--------
 //}

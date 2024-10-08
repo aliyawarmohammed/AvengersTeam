@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AvengersTeam.PArtialClassExample</StartupObject>
+    <StartupObject>AvengersTeam.Properties_Shaktiman</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="DoWhileloop.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="GreatestNumber.cs" />
+    <Compile Include="Inheritance_1.cs" />
     <Compile Include="InputDynamic.cs" />
     <Compile Include="jaggedArray.cs" />
     <Compile Include="MethodOverloading.cs" />
@@ -58,6 +59,7 @@
     <Compile Include="NestedIf.cs" />
     <Compile Include="PArtialClassExample.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Properties Example.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RunTimePolymorphism.cs" />
     <Compile Include="SealedAndPartialClass.cs" />
