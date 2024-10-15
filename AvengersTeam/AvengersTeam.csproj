@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AvengersTeam.Properties_Shaktiman</StartupObject>
+    <StartupObject>AvengersTeam.ImplementInterFace</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractClassExample.cs" />
+    <Compile Include="AbtractClassExample.cs" />
     <Compile Include="ArrayPredifinedFun.cs" />
     <Compile Include="DatatypeExample.cs" />
     <Compile Include="DoWhileloop.cs" />
@@ -53,6 +55,7 @@
     <Compile Include="GreatestNumber.cs" />
     <Compile Include="Inheritance_1.cs" />
     <Compile Include="InputDynamic.cs" />
+    <Compile Include="InterfaceExample.cs" />
     <Compile Include="jaggedArray.cs" />
     <Compile Include="MethodOverloading.cs" />
     <Compile Include="MultiDimentionArray.cs" />
