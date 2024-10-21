@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DoomsDay.DictionaryExaple</StartupObject>
+    <StartupObject>DoomsDay.MyExceptionExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,11 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DelegateExample.cs" />
     <Compile Include="DictionaryExaple.cs" />
     <Compile Include="EmployeeModel.cs" />
     <Compile Include="HashTableExample.cs" />
     <Compile Include="ListExample.cs" />
     <Compile Include="ListExample2.cs" />
+    <Compile Include="MyExceptionExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
