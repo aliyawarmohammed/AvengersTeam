@@ -13,14 +13,20 @@ namespace DoomsDay
         {
             try
             {
-                int num = 0;
+                var num = "ab";
 
-                int c = num / 2;
+                int c = Convert.ToInt32(num) / 0;
+            }
+            
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine(ex.ToString());
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
             }
+
             finally
             {
                 Console.WriteLine("hi");

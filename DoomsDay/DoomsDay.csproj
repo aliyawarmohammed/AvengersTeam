@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DoomsDay.MyExceptionExample</StartupObject>
+    <StartupObject>DoomsDay.Custom_ExceptionExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Custom_Exceptions.cs" />
     <Compile Include="DelegateExample.cs" />
     <Compile Include="DictionaryExaple.cs" />
     <Compile Include="EmployeeModel.cs" />
