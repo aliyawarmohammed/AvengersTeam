@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DoomsDay.Custom_ExceptionExample</StartupObject>
+    <StartupObject>DoomsDay.ThreadExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,7 @@
     <Compile Include="HashTableExample.cs" />
     <Compile Include="ListExample.cs" />
     <Compile Include="ListExample2.cs" />
+    <Compile Include="MultiThreadExample.cs" />
     <Compile Include="MyExceptionExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
