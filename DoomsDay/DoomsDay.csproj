@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DoomsDay.ThreadExample</StartupObject>
+    <StartupObject>DoomsDay.FilinfoExample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,7 @@
     <Compile Include="DelegateExample.cs" />
     <Compile Include="DictionaryExaple.cs" />
     <Compile Include="EmployeeModel.cs" />
+    <Compile Include="FilinfoExample.cs" />
     <Compile Include="HashTableExample.cs" />
     <Compile Include="ListExample.cs" />
     <Compile Include="ListExample2.cs" />
