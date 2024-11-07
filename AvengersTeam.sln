@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvengersTeam", "AvengersTea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoomsDay", "DoomsDay\DoomsDay.csproj", "{00A91A0A-6BAF-4BB2-B9EA-2E44A73EED38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsCrudApp", "WindowsCrudApp\WindowsCrudApp.csproj", "{BDA335AD-F763-4050-8179-9D685BD566B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{00A91A0A-6BAF-4BB2-B9EA-2E44A73EED38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A91A0A-6BAF-4BB2-B9EA-2E44A73EED38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A91A0A-6BAF-4BB2-B9EA-2E44A73EED38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA335AD-F763-4050-8179-9D685BD566B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA335AD-F763-4050-8179-9D685BD566B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA335AD-F763-4050-8179-9D685BD566B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA335AD-F763-4050-8179-9D685BD566B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
